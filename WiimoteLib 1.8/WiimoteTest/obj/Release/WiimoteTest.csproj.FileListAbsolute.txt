@@ -1,0 +1,24 @@
+C:\Users\Stefan\Desktop\rmit\Gameplay Mechanics & Programming\WiiPlugSource\WiimoteLib_1.8_src\WiimoteTest\bin\Release\WiimoteTest.exe
+C:\Users\Stefan\Desktop\rmit\Gameplay Mechanics & Programming\WiiPlugSource\WiimoteLib_1.8_src\WiimoteTest\bin\Release\WiimoteTest.pdb
+C:\Users\Stefan\Desktop\rmit\Gameplay Mechanics & Programming\WiiPlugSource\WiimoteLib_1.8_src\WiimoteTest\bin\Release\WiimoteLib.dll
+C:\Users\Stefan\Desktop\rmit\Gameplay Mechanics & Programming\WiiPlugSource\WiimoteLib_1.8_src\WiimoteTest\bin\Release\WiimoteLib.pdb
+C:\Users\Stefan\Desktop\rmit\Gameplay Mechanics & Programming\WiiPlugSource\WiimoteLib_1.8_src\WiimoteTest\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Stefan\Desktop\rmit\Gameplay Mechanics & Programming\WiiPlugSource\WiimoteLib_1.8_src\WiimoteTest\obj\Release\WiimoteTest.SingleWiimoteForm.resources
+C:\Users\Stefan\Desktop\rmit\Gameplay Mechanics & Programming\WiiPlugSource\WiimoteLib_1.8_src\WiimoteTest\obj\Release\WiimoteTest.MultipleWiimoteForm.resources
+C:\Users\Stefan\Desktop\rmit\Gameplay Mechanics & Programming\WiiPlugSource\WiimoteLib_1.8_src\WiimoteTest\obj\Release\WiimoteTest.Properties.Resources.resources
+C:\Users\Stefan\Desktop\rmit\Gameplay Mechanics & Programming\WiiPlugSource\WiimoteLib_1.8_src\WiimoteTest\obj\Release\WiimoteTest.WiimoteInfo.resources
+C:\Users\Stefan\Desktop\rmit\Gameplay Mechanics & Programming\WiiPlugSource\WiimoteLib_1.8_src\WiimoteTest\obj\Release\WiimoteTest.csproj.GenerateResource.Cache
+C:\Users\Stefan\Desktop\rmit\Gameplay Mechanics & Programming\WiiPlugSource\WiimoteLib_1.8_src\WiimoteTest\obj\Release\WiimoteTest.exe
+C:\Users\Stefan\Desktop\rmit\Gameplay Mechanics & Programming\WiiPlugSource\WiimoteLib_1.8_src\WiimoteTest\obj\Release\WiimoteTest.pdb
+D:\australie backup\Gameplay Mechanics & Programming\WiiPlugSource\WiimoteLib_1.8_src\WiimoteTest\obj\Release\WiimoteTest.exe
+D:\australie backup\Gameplay Mechanics & Programming\WiiPlugSource\WiimoteLib_1.8_src\WiimoteTest\obj\Release\WiimoteTest.pdb
+D:\australie backup\Gameplay Mechanics & Programming\WiiPlugSource\WiimoteLib_1.8_src\WiimoteTest\bin\Release\WiimoteTest.exe
+D:\australie backup\Gameplay Mechanics & Programming\WiiPlugSource\WiimoteLib_1.8_src\WiimoteTest\bin\Release\WiimoteTest.pdb
+D:\australie backup\Gameplay Mechanics & Programming\WiiPlugSource\WiimoteLib_1.8_src\WiimoteTest\bin\Release\WiimoteLib.dll
+D:\australie backup\Gameplay Mechanics & Programming\WiiPlugSource\WiimoteLib_1.8_src\WiimoteTest\bin\Release\WiimoteLib.pdb
+D:\australie backup\Gameplay Mechanics & Programming\WiiPlugSource\WiimoteLib_1.8_src\WiimoteTest\obj\Release\WiimoteTest.csprojResolveAssemblyReference.cache
+D:\australie backup\Gameplay Mechanics & Programming\WiiPlugSource\WiimoteLib_1.8_src\WiimoteTest\obj\Release\WiimoteTest.SingleWiimoteForm.resources
+D:\australie backup\Gameplay Mechanics & Programming\WiiPlugSource\WiimoteLib_1.8_src\WiimoteTest\obj\Release\WiimoteTest.MultipleWiimoteForm.resources
+D:\australie backup\Gameplay Mechanics & Programming\WiiPlugSource\WiimoteLib_1.8_src\WiimoteTest\obj\Release\WiimoteTest.Properties.Resources.resources
+D:\australie backup\Gameplay Mechanics & Programming\WiiPlugSource\WiimoteLib_1.8_src\WiimoteTest\obj\Release\WiimoteTest.WiimoteInfo.resources
+D:\australie backup\Gameplay Mechanics & Programming\WiiPlugSource\WiimoteLib_1.8_src\WiimoteTest\obj\Release\WiimoteTest.csproj.GenerateResource.Cache

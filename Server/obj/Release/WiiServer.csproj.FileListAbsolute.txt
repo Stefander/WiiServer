@@ -1,0 +1,44 @@
+C:\Users\Stefan\Desktop\rmit\Gameplay Mechanics & Programming\ServerSource\WiiServer\bin\Release\WiiServer.exe
+C:\Users\Stefan\Desktop\rmit\Gameplay Mechanics & Programming\ServerSource\WiiServer\bin\Release\WiiServer.pdb
+C:\Users\Stefan\Desktop\rmit\Gameplay Mechanics & Programming\ServerSource\WiiServer\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Stefan\Desktop\rmit\Gameplay Mechanics & Programming\ServerSource\WiiServer\obj\Release\WiiServer.exe
+C:\Users\Stefan\Desktop\rmit\Gameplay Mechanics & Programming\ServerSource\WiiServer\obj\Release\WiiServer.pdb
+C:\Users\Stefan\Desktop\rmit\Gameplay Mechanics & Programming\ServerSource\WiiServer\bin\Release\WiimoteLib.dll
+C:\Users\Stefan\Desktop\rmit\Gameplay Mechanics & Programming\ServerSource\WiiServer\bin\Release\WiimoteLib.pdb
+C:\Users\Stefan\Desktop\rmit\Gameplay Mechanics & Programming\ServerSource\WiiServer\obj\Release\WiiServer.Properties.Resources.resources
+C:\Users\Stefan\Desktop\rmit\Gameplay Mechanics & Programming\ServerSource\WiiServer\obj\Release\WiiServer.csproj.GenerateResource.Cache
+C:\Users\Stefan\Desktop\rmit\Gameplay Mechanics & Programming\ServerSource\WiiServer\bin\Release\WiiServer.exe.config
+C:\Users\Stefan\Desktop\rmit\Gameplay Mechanics & Programming\ServerSource\WiiServer\obj\Release\WiiServer.TrollStatus.resources
+C:\Users\S3362788\Desktop\source\ServerSource\WiiServer\bin\Release\WiiServer.exe.config
+C:\Users\S3362788\Desktop\source\ServerSource\WiiServer\obj\Release\WiiServer.exe
+C:\Users\S3362788\Desktop\source\ServerSource\WiiServer\obj\Release\WiiServer.pdb
+C:\Users\S3362788\Desktop\source\ServerSource\WiiServer\bin\Release\WiiServer.exe
+C:\Users\S3362788\Desktop\source\ServerSource\WiiServer\bin\Release\WiiServer.pdb
+C:\Users\S3362788\Desktop\source\ServerSource\WiiServer\bin\Release\WiimoteLib.pdb
+C:\Users\S3362788\Desktop\source\ServerSource\WiiServer\obj\Release\ResolveAssemblyReference.cache
+C:\Users\S3362788\Desktop\source\ServerSource\WiiServer\obj\Release\WiiServer.TrollStatus.resources
+C:\Users\S3362788\Desktop\source\ServerSource\WiiServer\obj\Release\WiiServer.Properties.Resources.resources
+C:\Users\S3362788\Desktop\source\ServerSource\WiiServer\obj\Release\ResGen.read.1.tlog
+C:\Users\S3362788\Desktop\source\ServerSource\WiiServer\obj\Release\ResGen.write.1.tlog
+C:\Users\Stefan\Desktop\rmit\Gameplay Mechanics & Programming\ServerSource\bin\Release\WiiServer.exe.config
+C:\Users\Stefan\Desktop\rmit\Gameplay Mechanics & Programming\ServerSource\bin\Release\WiiServer.exe
+C:\Users\Stefan\Desktop\rmit\Gameplay Mechanics & Programming\ServerSource\bin\Release\WiiServer.pdb
+C:\Users\Stefan\Desktop\rmit\Gameplay Mechanics & Programming\ServerSource\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Stefan\Desktop\rmit\Gameplay Mechanics & Programming\ServerSource\obj\Release\WiiServer.TrollStatus.resources
+C:\Users\Stefan\Desktop\rmit\Gameplay Mechanics & Programming\ServerSource\obj\Release\WiiServer.Properties.Resources.resources
+C:\Users\Stefan\Desktop\rmit\Gameplay Mechanics & Programming\ServerSource\obj\Release\WiiServer.csproj.GenerateResource.Cache
+C:\Users\Stefan\Desktop\rmit\Gameplay Mechanics & Programming\ServerSource\obj\Release\WiiServer.exe
+C:\Users\Stefan\Desktop\rmit\Gameplay Mechanics & Programming\ServerSource\obj\Release\WiiServer.pdb
+C:\Users\Stefan\Desktop\rmit\Gameplay Mechanics & Programming\ServerSource\bin\Release\WiimoteLib.dll
+C:\Users\Stefan\Desktop\rmit\Gameplay Mechanics & Programming\ServerSource\bin\Release\WiimoteLib.pdb
+D:\australie backup\Gameplay Mechanics & Programming\ServerSource\bin\Release\WiiServer.exe.config
+D:\australie backup\Gameplay Mechanics & Programming\ServerSource\obj\Release\WiiServer.exe
+D:\australie backup\Gameplay Mechanics & Programming\ServerSource\obj\Release\WiiServer.pdb
+D:\australie backup\Gameplay Mechanics & Programming\ServerSource\obj\Release\WiiServer.csprojResolveAssemblyReference.cache
+D:\australie backup\Gameplay Mechanics & Programming\ServerSource\obj\Release\WiiServer.TrollStatus.resources
+D:\australie backup\Gameplay Mechanics & Programming\ServerSource\obj\Release\WiiServer.Properties.Resources.resources
+D:\australie backup\Gameplay Mechanics & Programming\ServerSource\obj\Release\WiiServer.csproj.GenerateResource.Cache
+D:\australie backup\Gameplay Mechanics & Programming\ServerSource\bin\Release\WiiServer.exe
+D:\australie backup\Gameplay Mechanics & Programming\ServerSource\bin\Release\WiiServer.pdb
+D:\australie backup\Gameplay Mechanics & Programming\ServerSource\bin\Release\WiimoteLib.dll
+D:\australie backup\Gameplay Mechanics & Programming\ServerSource\bin\Release\WiimoteLib.pdb

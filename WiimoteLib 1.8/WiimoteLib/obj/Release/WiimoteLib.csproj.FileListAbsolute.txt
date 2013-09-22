@@ -1,0 +1,10 @@
+C:\Users\Stefan\Desktop\rmit\Gameplay Mechanics & Programming\WiiPlugSource\WiimoteLib_1.8_src\WiimoteLib\bin\Release\WiimoteLib.dll
+C:\Users\Stefan\Desktop\rmit\Gameplay Mechanics & Programming\WiiPlugSource\WiimoteLib_1.8_src\WiimoteLib\bin\Release\WiimoteLib.pdb
+C:\Users\Stefan\Desktop\rmit\Gameplay Mechanics & Programming\WiiPlugSource\WiimoteLib_1.8_src\WiimoteLib\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Stefan\Desktop\rmit\Gameplay Mechanics & Programming\WiiPlugSource\WiimoteLib_1.8_src\WiimoteLib\obj\Release\WiimoteLib.dll
+C:\Users\Stefan\Desktop\rmit\Gameplay Mechanics & Programming\WiiPlugSource\WiimoteLib_1.8_src\WiimoteLib\obj\Release\WiimoteLib.pdb
+D:\australie backup\Gameplay Mechanics & Programming\WiiPlugSource\WiimoteLib_1.8_src\WiimoteLib\bin\Release\WiimoteLib.dll
+D:\australie backup\Gameplay Mechanics & Programming\WiiPlugSource\WiimoteLib_1.8_src\WiimoteLib\bin\Release\WiimoteLib.pdb
+D:\australie backup\Gameplay Mechanics & Programming\WiiPlugSource\WiimoteLib_1.8_src\WiimoteLib\obj\Release\WiimoteLib.csprojResolveAssemblyReference.cache
+D:\australie backup\Gameplay Mechanics & Programming\WiiPlugSource\WiimoteLib_1.8_src\WiimoteLib\obj\Release\WiimoteLib.dll
+D:\australie backup\Gameplay Mechanics & Programming\WiiPlugSource\WiimoteLib_1.8_src\WiimoteLib\obj\Release\WiimoteLib.pdb

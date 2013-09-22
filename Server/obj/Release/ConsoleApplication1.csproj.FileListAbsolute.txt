@@ -1,0 +1,5 @@
+C:\Users\Stefan\AppData\Local\Temporary Projects\ConsoleApplication1\bin\Release\ConsoleApplication1.exe
+C:\Users\Stefan\AppData\Local\Temporary Projects\ConsoleApplication1\bin\Release\ConsoleApplication1.pdb
+C:\Users\Stefan\AppData\Local\Temporary Projects\ConsoleApplication1\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Stefan\AppData\Local\Temporary Projects\ConsoleApplication1\obj\Release\ConsoleApplication1.exe
+C:\Users\Stefan\AppData\Local\Temporary Projects\ConsoleApplication1\obj\Release\ConsoleApplication1.pdb

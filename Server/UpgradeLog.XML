@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="WiiServer">
+</Property><Property Name="Solution File" Value="C:\Users\S3362788\Desktop\source\ServerSource\WiiServer\WiiServer.sln">
+</Property><Property Name="User Options File" Value="C:\Users\S3362788\Desktop\source\ServerSource\WiiServer\WiiServer.suo">
+</Property><Property Name="Date" Value="Tuesday, 3 April 2012">
+</Property><Property Name="Time" Value="17:57 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="WiiServer.sln" Description="File successfully backed up as C:\Users\S3362788\Desktop\source\ServerSource\WiiServer\Backup\WiiServer.sln">
+</Event><Event ErrorLevel="0" Project="" Source="WiiServer.suo" Description="File successfully backed up as C:\Users\S3362788\Desktop\source\ServerSource\WiiServer\Backup\WiiServer.suo">
+</Event><Event ErrorLevel="0" Project="WiiServer" Source="WiiServer.csproj" Description="Project file successfully backed up as C:\Users\S3362788\Desktop\source\ServerSource\WiiServer\Backup\WiiServer.csproj">
+</Event><Event ErrorLevel="0" Project="WiiServer" Source="WiiServer.csproj.user" Description="Project user file successfully backed up as C:\Users\S3362788\Desktop\source\ServerSource\WiiServer\Backup\WiiServer.csproj.user">
+</Event><Event ErrorLevel="0" Project="WiiServer" Source="Properties\Settings.Designer.cs" Description="File successfully backed up as C:\Users\S3362788\Desktop\source\ServerSource\WiiServer\Backup\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="WiiServer" Source="TrollStatus.cs" Description="File successfully backed up as C:\Users\S3362788\Desktop\source\ServerSource\WiiServer\Backup\TrollStatus.cs">
+</Event><Event ErrorLevel="0" Project="WiiServer" Source="TrollStatus.Designer.cs" Description="File successfully backed up as C:\Users\S3362788\Desktop\source\ServerSource\WiiServer\Backup\TrollStatus.Designer.cs">
+</Event><Event ErrorLevel="0" Project="WiiServer" Source="Program.cs" Description="File successfully backed up as C:\Users\S3362788\Desktop\source\ServerSource\WiiServer\Backup\Program.cs">
+</Event><Event ErrorLevel="0" Project="WiiServer" Source="Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\S3362788\Desktop\source\ServerSource\WiiServer\Backup\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="WiiServer" Source="Properties\Resources.Designer.cs" Description="File successfully backed up as C:\Users\S3362788\Desktop\source\ServerSource\WiiServer\Backup\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="WiiServer" Source="Server\Server.cs" Description="File successfully backed up as C:\Users\S3362788\Desktop\source\ServerSource\WiiServer\Backup\Server\Server.cs">
+</Event><Event ErrorLevel="0" Project="WiiServer" Source="app.config" Description="File successfully backed up as C:\Users\S3362788\Desktop\source\ServerSource\WiiServer\Backup\app.config">
+</Event><Event ErrorLevel="0" Project="WiiServer" Source="Resources\trollImage.jpg" Description="File successfully backed up as C:\Users\S3362788\Desktop\source\ServerSource\WiiServer\Backup\Resources\trollImage.jpg">
+</Event><Event ErrorLevel="0" Project="WiiServer" Source="Properties\Settings.settings" Description="File successfully backed up as C:\Users\S3362788\Desktop\source\ServerSource\WiiServer\Backup\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="WiiServer" Source="TrollStatus.resx" Description="File successfully backed up as C:\Users\S3362788\Desktop\source\ServerSource\WiiServer\Backup\TrollStatus.resx">
+</Event><Event ErrorLevel="0" Project="WiiServer" Source="Properties\Resources.resx" Description="File successfully backed up as C:\Users\S3362788\Desktop\source\ServerSource\WiiServer\Backup\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="WiiServer" Source="Resources\troll.ico" Description="File successfully backed up as C:\Users\S3362788\Desktop\source\ServerSource\WiiServer\Backup\Resources\troll.ico">
+</Event><Event ErrorLevel="1" Project="WiiServer" Source="WiiServer.csproj" Description="Your project is targeting .NET Framework 2.0 or 3.0. If your project uses assemblies requiring a newer .NET Framework, your project will fail to build. You can change the .NET Framework version by clicking Properties on the project menu and then selecting a new version in the '.NET Framework' dropdown box. (In Visual Basic, this is located on the Compile tab by clicking the 'Advanced Compiler Options...' button.)">
+</Event><Event ErrorLevel="0" Project="WiiServer" Source="WiiServer.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="WiiServer" Source="WiiServer.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="WiiServer.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="WiiServer.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="WiiServer" Source="app.config" Description="File converted successfully. All &lt;supportedRuntime&gt; and &lt;requiredRuntime&gt; tags were removed to enable the project to build and run with Visual Studio 2005.">
+</Event><Event ErrorLevel="3" Project="WiiServer" Source="app.config" Description="Converted">
+</Event></UpgradeLog>
